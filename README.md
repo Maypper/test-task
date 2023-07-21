@@ -1,16 +1,16 @@
 # test-task
-## Файлы
-Основные файлы, в которых работал, это 
+## Files
+The main files worked in are 
 index.php
 /inc/custom-functions.php
 /js/ajax-loadmore.js
 /template-parts/content.php
 functions.php
-### 2 задание
-Сделал генератор 20 случайных записей, контент для которых берётся из lorem ipsum (custom-functions.php)
-### 4 задание
-Сортировка обычная через get
-### 6 задание
-Добавил страничку и сортировку через мета поле, которе добавляется и изменяется при обновлении записи
-### 7 задание
-думал добавлять картинки внутрь БД или просто нативно, выбрал второй вариант, через перебор строки нахожу нужное по порядковому номеру вхождение параграфа
+### 2nd task
+Made a generator of 20 random entries with content taken from lorem ipsum (custom-functions.php)
+### 4 task
+Sorting via get
+### 6 task
+Added page and sorting via meta field, which is added and changed when the record is updated.
+### 7 task
+I thought of adding pictures inside the database or just natively, I chose the second option, through the string search I find the necessary paragraph occurrence by sequence number.
